@@ -95,7 +95,7 @@ void display_solution1(const vector<int> &A, const vector<int> &B)
 
     cout << endl;
     // Destroy the lists
-    L1.terminate(); L1B.terminate();
+   // L1.terminate(); L1B.terminate();
 }
 
 void display_solution2(char * A, int size)
